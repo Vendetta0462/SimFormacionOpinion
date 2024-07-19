@@ -21,4 +21,6 @@ Como un ejemplo de la aplicación de métodos de Monte Carlo en una área muy di
 ## Referencias
 
 - P. Sen, B. Chakabarty Sociophysics: An Introduction, Oxford University Press, UK (2013)
-- H Noorazar - The European Physical Journal Plus, 2020 - Springer -J.C. González-Avella, M.G. Consenza, K. Tucci , Phys.Rev.E 72 (2005) 0650202 -M. Pineda, G.M. Buendía, Physica A, 420 (2015) 73-84
+- H Noorazar - The European Physical Journal Plus, 2020 - Springer
+- J.C. González-Avella, M.G. Consenza, K. Tucci , Phys.Rev.E 72 (2005) 0650202
+- M. Pineda, G.M. Buendía, Physica A, 420 (2015) 73-84
