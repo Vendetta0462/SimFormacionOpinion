@@ -2,8 +2,9 @@
 
 Como un ejemplo de la aplicación de métodos de Monte Carlo en una área muy distinta del conocimiento vamos a estudiar un modelo sencillo que trata de simular los mecanismos de formación de opinión en una sociedad. Definiremos un sistema de individuos que inicialmente tienen opiniones completamente distintas sobre un tema, estas opiniones están representadas por una variable continua. Los individuos interaccionan entre ellos y con los medios externos. A cada individuo se le asigna un nivel de tolerancia, que representa su disposición a interactuar con otros individuos o media que tenga opiniones distintas a él.
 
-## Autor del código
-- Nicolas Mantilla Molina
+## Autores del código
+- Nicolas Mantilla Molina (Python 🐍)
+- Jose Palacios Cordoba (Mathematica 🧮)
 
 ## Objetivos
 
